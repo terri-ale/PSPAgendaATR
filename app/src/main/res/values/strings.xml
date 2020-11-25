@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PSPAgendaATR</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_surname">Surname</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_city">City</string>
+    <string name="hint_number">Number</string>
+    <string name="bt_save">Save</string>
+</resources>
